@@ -7,5 +7,5 @@
 *Rproj
 .gitignore
 /_site
-
+_publish.yml
 /.quarto/

@@ -6,5 +6,6 @@
 *_files
 *Rproj
 .gitignore
+/_site
 
 /.quarto/
